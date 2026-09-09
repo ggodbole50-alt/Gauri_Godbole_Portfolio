@@ -24,20 +24,20 @@ jobs:
         with:
           node-version: 24
           cache: npm
-          cache-dependency-path: <Gauri_Godbole_Portfolio_SFD>/package-lock.json
+          cache-dependency-path: Gauri_Godbole_Portfolio_SFD/package-lock.json
 
       - name: Install dependencies
-        working-directory: <Gauri_Godbole_Portfolio_SFD>
+        working-directory: Gauri_Godbole_Portfolio_SFD
         run: npm ci
 
       - name: Build Docusaurus
-        working-directory: <Gauri_Godbole_Portfolio_SFD>
+        working-directory: Gauri_Godbole_Portfolio_SFD
         run: npm run build
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
         with:
-          path: <Gauri_Godbole_Portfolio_SFD>/build
+          path: Gauri_Godbole_Portfolio_SFD/build
 
   deploy:
     name: Deploy to GitHub Pages
