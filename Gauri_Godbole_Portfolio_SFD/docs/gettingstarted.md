@@ -9,4 +9,4 @@ For designers, architects, and engineers, Structure Functional Design provides t
 - Enables you to gauge the openings, end cuts, slots need to be designed for the passing of profiles, like stiffener and beams.
   
 
-**See also:** tsttststst
+**See also:** tsttststst sdfsd
