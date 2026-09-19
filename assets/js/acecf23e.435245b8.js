@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgauri_godbole_portfolio=self.webpackChunkgauri_godbole_portfolio||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/docs-as-code-training/blog","blogTitle":"Blog","authorsListPath":"/docs-as-code-training/blog/authors"}')}}]);
