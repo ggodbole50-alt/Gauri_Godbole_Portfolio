@@ -47,20 +47,6 @@ Link
  
 After completing the prerequisites, see the [Installation](installation.md) guide.
 
-image
-
-![](/docs/images/SFE_SectionOrientationWN_02.png)
-
-<img src="/docs/images/SFE_SectionOrientationWN_02.png" width="300" height="200" />
-
-Table
-
-| Name | Location | Sports |
-| --- | --- | --- |
-| Saniya | HY | Tennis |
-| Neeraj | --- | --- |
-| Sachin | Mumbai | --- |
-| --- | --- | --- |
 
 >**N- [Getting Started](#getting-started)
 - [Getting Started](#getting-started)
@@ -69,29 +55,31 @@ Table
   - [Next steps](#next-steps)
 
 <table class="table table-striped">
-<caption>Caption for this Table</caption>
-<thead class="thead-dark">
-<tr>
-<thwidth="30%">Property</th>
-<thwidth="70%">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Topic1 </td>
-<td>Topic2
-<ul>
-<li>Bullet item</li>
-<li>Bullet item</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>TopicA</td>
-<td>TopicB</td>
-</tr>
-</tbody>
+  <caption>Caption for this Table</caption>
+  <thead class="thead-dark">
+    <tr>
+      <th width="30%">Property</th>
+      <th width="70%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Topic1</td>
+      <td>
+        Topic2
+        <ul>
+          <li>Bullet item</li>
+          <li>Bullet item</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>TopicA</td>
+      <td>TopicB</td>
+    </tr>
+  </tbody>
 </table>
+
 
 Checklist test test
 - [x] Set up the editor
