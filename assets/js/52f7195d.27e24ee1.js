@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgauri_godbole_portfolio=self.webpackChunkgauri_godbole_portfolio||[]).push([["695"],{6255(o){o.exports=JSON.parse('{"metadata":{"permalink":"/Gauri_Godbole_Portfolio/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
