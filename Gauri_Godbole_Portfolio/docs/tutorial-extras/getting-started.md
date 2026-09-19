@@ -41,11 +41,6 @@ def fibonacci(n):
 1. Link 
 After completing the prerequisites, continue with the installation guide.
 
-Link
-[Readme](/README.md)
-[Visit website](https://github.com/)
- 
-After completing the prerequisites, see the [Installation](installation.md) guide.
 
 
 >**N- [Getting Started](#getting-started)
