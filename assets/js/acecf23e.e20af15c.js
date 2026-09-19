@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgauri_godbole_portfolio=self.webpackChunkgauri_godbole_portfolio||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/Gauri_Godbole_Portfolio/blog","blogTitle":"Blog","authorsListPath":"/Gauri_Godbole_Portfolio/blog/authors"}')}}]);
