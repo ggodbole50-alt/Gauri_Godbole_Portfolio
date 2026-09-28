@@ -9,8 +9,22 @@ const sidebars = {
       type: 'category',
       label: 'Administration Guide',
       items: [
-        'ActionRule_colorRule',
-        'ActionRule_create',
+        'Administration Guide/ActionRule_ColorRule',
+        'Administration Guide/ActionRule_Create',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Installation Guide',
+      items: [
+        'Installation Guide/installation',
+      ],
+    },
+     {
+      type: 'category',
+      label: 'User Guide',
+      items: [
+        'User Guide/StructureSystem_Create',
       ],
     },
     {
