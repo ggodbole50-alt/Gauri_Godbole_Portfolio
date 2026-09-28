@@ -6,9 +6,12 @@ const sidebars = {
       label: 'Introduction',
     },
     {
-      type: 'doc',
-      id: 'administration',
+      type: 'category',
       label: 'Administration Guide',
+      items: [
+        'ActionRule_colorRule',
+        'ActionRule_create',
+      ],
     },
     {
       type: 'category',
