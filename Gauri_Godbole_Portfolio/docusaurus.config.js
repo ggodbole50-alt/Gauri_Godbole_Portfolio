@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Technical Writing Portfolio',
-  tagline: 'Writer: Gauri Godbole',
+  title: 'Gauri Godbole',
+  tagline: 'Senior Technical Writer | Technical Communicator',
   favicon: 'img/pencil.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -83,17 +83,17 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Structure Function Design',
+        title: 'My Portfolio',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Pencil.jpg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'docsSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Help',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -107,12 +107,17 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Tools',
             items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
+            { html: `
+            <ul>
+              <li>Oxygen XML Author</li>
+              <li>Github</li>
+              <li>Git</li>
+              <li>Markdown</li>
+              <li>VS Code</li>
+            </ul>
+          `},
             ],
           },
           {

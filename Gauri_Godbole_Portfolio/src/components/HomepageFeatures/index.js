@@ -4,33 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'What Am I looking for?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I would like to work in a professional environment at a position that utilizes and enhances my language skills, 
+        provides work satisfaction while contributing to organizational growth. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'What can I do?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      I can convey complex information using easy to understand language using verious technical writing methods, such as DITA and docs-as-code.
       </>
-    ),
+    ),  
   },
   {
-    title: 'Powered by React',
+    title: 'Who am I?',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <>I am a senior technical writer with a passion for creating clear and concise documentation. With my background in engineering and language, I strive to deliver high-quality content that enhances user experience.</>
     ),
   },
 ];
